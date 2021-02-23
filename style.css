@@ -47,8 +47,9 @@ a{
     display: inline-block;
     max-width: 50%;
     align-items: center;
-    max-height: 100%;
-    
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 40px;
 }
    
     
